@@ -69,5 +69,22 @@ Explain the problem and include additional details to help maintainers reproduce
 ### Suggesting Enhancements
 This section guides you through submitting an enhancement suggestion for Klifu, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
 
+Before creating an enhancement suggestions, please check [this list](https://github.com/Klifu/klifu/discussions/categories/ideas) as you might find out that you dont need to create one. Before creating an issue for a feature request, please have a chat in the [discussion](https://github.com/Klifu/klifu/discussions/categories/ideas). 
 
+### Your First Code Contribution
+Unsure where to begin contributing to Klifu? You can start by looking through these `beginner` and `help-wanted` issues:
 
+- [Beginner issues]() -  issues which should only require a few lines of code, and a test or two.
+- [Help wanted issues]() - issues which should be a bit more involved than `beginner` issues.
+
+Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
+
+#### Local development 
+All packaged of klifu can be developed locally. For instructions on how to do this see the `reademe` file of the package you are working on. 
+
+### Pull Requests 
+The process described here has several goals:
+- Maintain Klifu's quality 
+- Fix problems that are important to users
+- Engage the community in working toward the best possible klifu. 
+- Enable a sustainable system for Klifu's maintainers to review contributions
