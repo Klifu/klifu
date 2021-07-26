@@ -27,4 +27,11 @@ If chat is more your speed, you can join the Klifu Discord.
 
 ## What should I know before I get started
 
-Klifu is fairly small open source project - it's made up of [3 repositories](https://github/klifu). When you initially consider contributing to klifu, you might be unsure about which of these 3 repos a functionality you want to change, or report a bug for. This section should help you with that. 
+Klifu is fairly small open source project - it's made up of [3 repositories](https://github/klifu). When you initially consider contributing to klifu, you might be unsure about which of these 3 repositories implements the functionality you want to change, or report a bug for. This section should help you with that. 
+
+As of now **klifu** is divided into 3 main repositories, 
+
+- [@klifu/core](https://github.com/Klifu/core) -  where lives all the game logic and static data. 
+- [@klifu/cli](https://github.com/klifu/cli) - the CLI client for klifu, as of now this is the only way to play klifu. 
+- [@klifu/api](https://github.com/klifu/API) - klifu API which hosts all static data for the game. 
+
