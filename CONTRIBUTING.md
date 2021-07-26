@@ -16,10 +16,10 @@ This project are everyone participating in it is governed by the [Klifu Code of 
 ## I don't want to read this whole thing, I just have a question!!
 > Please don't file an issue to ask a question. You'll get faster results by using the resource below. 
 
-We are using [GitHub Discussion](https://github.com/Klifu/klifu/discussions) as a place to connect with other members of our community. 
+We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have any questions. 
 
-Head over to 
-- [`QA`](https://github.com/Klifu/klifu/discussions/categories/q-a) for your doubts. 
-- [`Ideas`](https://github.com/Klifu/klifu/discussions/categories/ideas) to share your ideas.
-- [`General`](https://github.com/Klifu/klifu/discussions/categories/general) to just chill. 
+- [Discuss, the official Klifu message board](https://github.com/Klifu/klifu/discussions)
+- [Klifu FAQ](https://github.com/Klifu/klifu/discussions/categories/q-a)
+
+If chat is more your speed, you can join the Klifu Discord. 
 
