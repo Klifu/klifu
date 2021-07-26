@@ -4,8 +4,9 @@
 The following is a set of guidelines for contributing to **Klifu** and it's packages, which are hosted in the [Klifu Organization](https://github.com/klifu) on GitHub. These are mostly guidelines, not rules. Use your best judement, and feel free to propose changes to this document in a pull request. 
 
 ## Table of Contents
-- [Code of Conduct](#codeofconduct)
-- [I don't want to read this whole thing, I just have a question!!]()
+- [Code of Conduct](#code-of-conduct)
+- [I don't want to read this whole thing, I just have a question!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+- [What should I know before I get started](#what-should-i-know-before-i-get-started)
 
 ---
 
@@ -23,3 +24,7 @@ We have an official message board with a detailed FAQ and where the community ch
 
 If chat is more your speed, you can join the Klifu Discord. 
 
+
+## What should I know before I get started
+
+Klifu is fairly small open source project - it's made up of [3 repositories](https://github/klifu). When you initially consider contributing to klifu, you might be unsure about which of these 3 repos a functionality you want to change, or report a bug for. This section should help you with that. 
