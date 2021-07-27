@@ -9,20 +9,34 @@ Klifu is an online pokemon turn based game influenced by pokemongo and pokemon r
 > Under Development 🔨
 
 ## Table of Contents
-- [Installation](#installation)
+
+- [Overview](#overview)
+- [List of Official Game Clients](#list-of-official-game-clients)
 	- [CLI](#cli)
-- [CLI Usage](#cli-usage)
+		- [Installation](#installation)
+		- [Usage](#usage)
 
-## Installation 
-We are working to bring new clients to play this game, as of now we only have one. 
+## Overview
+Klifu is a pokemon game build by the community as they like, that means the game mechanics is completely different from any other pokemon game you have played, taking inspiration from `pokemon red` and `pokemongo`. 
 
-### `CLI`
-To run `@klifu/cli`, ensure that you have Nodejs >=v10. [Install Nodejs via package manager](https://nodejs.org/en/download/package-manager/)
+
+## List of Official Game Clients
+As of now we are only working on our CLI client, but we have plans for more, stay tuned. 
+
+|Client Name|Description|Github Repo|
+|-----------|-----------|-----------|
+|[`CLI`](#cli)|klifu cli client that run in your cli|[here](https://github.com/klifu/cli)|
+
+### CLI
+Klifu cli client, just install and play the game right from your CLI. 
+
+#### Installation 
+To run `klifu` in your cli, ensure that you have Node.js >= v10. [Install NodeJS via package manager](https://nodejs.org/en/download/package-manager/)
 
 ```
 $ npm install -g @klifu/cli
 ```
-This installs `@klifu/cli` globally on your system allowing you to run it from anywhere.
+This installs `klifu` globally on your system allowing you to run it from anywhere.  If you want to install it locally, Just remove the `-g` flag.
 
-
-## CLI Usage
+#### Usage
+**Using klifu cli** 
