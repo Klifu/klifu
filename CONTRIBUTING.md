@@ -13,6 +13,7 @@ The following is a set of guidelines for contributing to **Klifu** and it's pack
 	- [Your First Code Contributions](#your-first-code-contributions)
 	- [Pull Requests](#pull-requests)
 - [Additional Notes](#additional-notes)
+	- [Issues and Pull Request issues](#issues-and-pull-request-issues)
 
 ---
 
