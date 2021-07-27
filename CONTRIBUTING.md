@@ -12,6 +12,7 @@ The following is a set of guidelines for contributing to **Klifu** and it's pack
 	- [Suggesting Enhancements](#suggesting-enhancements)
 	- [Your First Code Contributions](#your-first-code-contributions)
 	- [Pull Requests](#pull-requests)
+- [Additional Notes](#additional-notes)
 
 ---
 
@@ -101,3 +102,26 @@ Please follow these steps to have your contribution by the maintainers:
 	</details>
 
 > While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
+
+## Additional Notes
+
+### Issues and Pull Request Labels 
+This section lists the labels we use to help us track and manage issues and pull requests. Issues are only available in [klifu repo](https://github.com/klifu/klifu). 
+
+|label name|Description|
+|----------|-----------|
+|`@klifu`|Issues regarding klifu repo|
+|`@klifu/core`|Issues regarding core library|
+|`@klifu/cli`|Issues regarding CLI client|
+|`@klifu/API`|issues regarding klifu API|
+|`beginner`|issues which should only require a few lines of code, and a test or two|
+|`good first issue`|Good for newcomers|
+|`help wanted`|Extra attention is needed|
+|`bug`|Something isn't working|
+|`enhancement`|New feature or request|
+|`documentatio`|Improvements or additions to documentation|
+|`design`|issues related to design|
+|`duplicate`|This issue or pull request already exists|
+|`wontfix`|This will not be worked on|
+|`question`|Further information is requested|
+
