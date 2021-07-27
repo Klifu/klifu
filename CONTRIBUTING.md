@@ -29,7 +29,9 @@ We have an official message board with a detailed FAQ and where the community ch
 - [Discuss, the official Klifu message board](https://github.com/Klifu/klifu/discussions)
 - [Klifu FAQ](https://github.com/Klifu/klifu/discussions/categories/q-a)
 
-If chat is more your speed, you can join the Klifu Discord. 
+
+If chat is more your speed, you can join our [Klifu Discord](https://discord.gg/ntyrnfAXqr).
+
 
 
 ## What should I know before I get started
@@ -62,7 +64,7 @@ Bugs are tracked as [GitHub Issues](https://guides.github.com/features/issues/).
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
 - **Use a clear and descriptive title** for the issue to identify the problem.
-- **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you started Atom, e.g. which command exactly you used in the terminal, or how you started Atom otherwise. When listing steps, **don't just say what you did, but explain how you did it**. For example, if you moved the cursor to the end of a line, explain if you used the mouse, or a keyboard shortcut or an Atom command, and if so which one?
+- **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you started Atom,  **don't just say what you did, but explain how you did it**. 
 - **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 - **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 - **Explain which behavior you expected to see instead and why.**
@@ -120,7 +122,7 @@ This section lists the labels we use to help us track and manage issues and pull
 |`help wanted`|Extra attention is needed|
 |`bug`|Something isn't working|
 |`enhancement`|New feature or request|
-|`documentatio`|Improvements or additions to documentation|
+|`documentation`|Improvements or additions to documentation|
 |`design`|issues related to design|
 |`duplicate`|This issue or pull request already exists|
 |`wontfix`|This will not be worked on|
