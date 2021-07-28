@@ -15,6 +15,7 @@ Klifu is an online pokemon turn based game influenced by pokemongo and pokemon r
 	- [CLI](#cli)
 		- [Installation](#installation)
 		- [Usage](#usage)
+- [Communication](#communication)
 
 ## Overview
 Klifu is a pokemon game build by the community as they like, that means the game mechanics is completely different from any other pokemon game you have played, taking inspiration from `pokemon red` and `pokemongo`. 
@@ -40,3 +41,13 @@ This installs `klifu` globally on your system allowing you to run it from anywhe
 
 #### Usage
 **Using klifu cli** 
+
+
+## Communication 
+We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have any questions.
+
+- [Discuss, the official Klifu message board](https://github.com/Klifu/klifu/discussions)
+- [Klifu FAQ](https://github.com/Klifu/klifu/discussions/categories/q-a)
+
+
+If chat is more your speed, you can join our [Klifu Discord](https://discord.gg/ntyrnfAXqr)
