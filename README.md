@@ -80,7 +80,7 @@ and we have this repo for managing the project.
 
 ## Maintainers
 
-| Souvik     | Abir |
+| Souvik     | 0Verlord-41 |
 | ----------- | ----------- |
 | <img src="https://avatars3.githubusercontent.com/u/41781438?s=460&u=00c443438c07ac2ffaef48bef755067522abc4bc&v=4" height="100" width="100">     | <img src="https://avatars.githubusercontent.com/u/42108740?v=4" height="100" width="100">       |
 | [souvikns](https://github.com/souvikns)   | [0Verlord-41](https://github.com/0Verlord-41)       |
