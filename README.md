@@ -40,7 +40,9 @@ $ npm install -g @klifu/cli
 This installs `klifu` globally on your system allowing you to run it from anywhere.  If you want to install it locally, Just remove the `-g` flag.
 
 #### Usage
-**Using klifu cli** 
+To get started run `klifu --help` and follow the help given to understand how to play. 
+
+You can also check [the cli repo](https://github.com/klifu/cli) for detailed description of the game. 
 
 
 ## Communication 
