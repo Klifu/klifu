@@ -85,6 +85,6 @@ and we have this repo for managing the project.
 | <img src="https://avatars3.githubusercontent.com/u/41781438?s=460&u=00c443438c07ac2ffaef48bef755067522abc4bc&v=4" height="100" width="100">     | <img src="https://avatars.githubusercontent.com/u/42108740?v=4" height="100" width="100">       |
 | [souvikns](https://github.com/souvikns)   | [0Verlord-41](https://github.com/0Verlord-41)       |
 
-### Where can you reach us
+### Where can you reach us?
 - Just head over to [discussion](https://github.com/Klifu/klifu/discussions) and create a new discusion taging us. 
 - Or ping us in discord, *same name as github username* 😉
