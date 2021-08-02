@@ -1,0 +1,25 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+          ## Welcome to Klifu 🎉🎉
+          Thanks a lot for reporting your first issue. Please check out our [contributers guide](https://github.com/Klifu/klifu/blob/main/CONTRIBUTING.md). 
+          
+          Kindly also mind our [Code of conduct](https://github.com/Klifu/klifu/blob/main/CODE_OF_CONDUCT.md). 
+          
+        pr-message: |
+          ## Welcome to Klifu 🎉🎉
+          Thanks a lot for creating your first pull request. Please check out our [contributers guide](https://github.com/Klifu/klifu/blob/main/CONTRIBUTING.md). 
+          
+          Kindly also mind our [Code of conduct](https://github.com/Klifu/klifu/blob/main/CODE_OF_CONDUCT.md). 
