@@ -75,7 +75,7 @@ and we have this repo for managing the project.
 
 - Every packages has instructions about setting up your local development enviornment, just head to a repo and follow the instructions. 
 
-- We are managing our project using [zenhub](https://www.zenhub.com/), download the [zenhub extension](https://www.zenhub.com/extension) to check actively take part in the development process. 
+- We are managing our project using [zenhub](https://www.zenhub.com/), download the [zenhub extension](https://www.zenhub.com/extension) to check and actively take part in the development process. 
 
 
 ## Maintainers
