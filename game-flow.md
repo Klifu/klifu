@@ -14,6 +14,8 @@ This document is the complete game flow of klifu. We will talk about all the rul
 - [Getting Started](#getting-started)
 - [Catching Pokemons](#catching-pokemons)
 	- [Encountering wild pokemons](#encountering-wild-pokemons)
+	- [How to catch a wild pokemon?](#how-to-catch-a-wild-pokemon?)
+- [Battling pokemons](#battling-pokemons)
 
 ## Getting Started
 Just like any other pokemon game, you start klifu by choosing your starter pokemon. You get a choice between `Bulbasaur`, `Charmander`, `Squirtle`. Your starter pokemon is very crucial as you need it to catch new wild pokemons. 
@@ -34,4 +36,9 @@ In **klifu** encountering wild pokemons is like pulling a lucky draw. The pokemo
 
 So you do have a chance to encounter a lengandary pokemon early in game, but it is very less likely. 
 
+### How to catch a wild pokemon?
+You catch a wild pokemon by droping it's health and then throwing a pokeball to catch it. Low level pokemons are so weak that you dont even need to fight it for catching. If while fighting the wild pokemon faints, you dont get to catch it, so be carefull while attacking. 
 
+
+
+## Battling Pokemons 
