@@ -14,7 +14,7 @@ This document is the complete game flow of klifu. We will talk about all the rul
 - [Getting Started](#getting-started)
 - [Catching Pokemons](#catching-pokemons)
 	- [Encountering wild pokemons](#encountering-wild-pokemons)
-	- [How to catch a wild pokemon?](#how-to-catch-a-wild-pokemon?)
+	- [How to catch a wild pokemon?](#how-to-catch-a-wild-pokemon)
 - [Battling pokemons](#battling-pokemons)
 
 ## Getting Started
