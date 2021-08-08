@@ -17,6 +17,8 @@ This document is the complete game flow of klifu. We will talk about all the rul
 	- [How to catch a wild pokemon?](#how-to-catch-a-wild-pokemon)
 - [Battling pokemons](#battling-pokemons)
 	- [Catch Battle Mode](#catch-battle-mode)
+	- [NPC Battle Mode](#npc-battle-mode)
+	- [PVP Battle Mode](#pvp-battle-mode)
 
 ## Getting Started
 Just like any other pokemon game, you start klifu by choosing your starter pokemon. You get a choice between `Bulbasaur`, `Charmander`, `Squirtle`. Your starter pokemon is very crucial as you need it to catch new wild pokemons. 
