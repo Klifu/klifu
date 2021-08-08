@@ -16,6 +16,7 @@ This document is the complete game flow of klifu. We will talk about all the rul
 	- [Encountering wild pokemons](#encountering-wild-pokemons)
 	- [How to catch a wild pokemon?](#how-to-catch-a-wild-pokemon)
 - [Battling pokemons](#battling-pokemons)
+	- [Catch Battle Mode](#catch-battle-mode)
 
 ## Getting Started
 Just like any other pokemon game, you start klifu by choosing your starter pokemon. You get a choice between `Bulbasaur`, `Charmander`, `Squirtle`. Your starter pokemon is very crucial as you need it to catch new wild pokemons. 
@@ -42,3 +43,45 @@ You catch a wild pokemon by droping it's health and then throwing a pokeball to 
 
 
 ## Battling Pokemons 
+In klifu there are a three modes of battle which will occur,
+
+|Battle Mode | Description|
+|------------|------------|
+|Catch Battle|You battle a wild pokemon to drop it's hp to eventualy capture it.|
+|NPC Battle  |You battle against a NPC bot. Mostly gym battles|
+|PVP Battle  |You battle another player over internet|
+
+### Catch Battle Mode 
+This is a battle mode where you the user play against a wild pokemon in order to catch it. 
+
+#### Rules 
+- You can have atmost 6 pokemons.
+- Your opponent is only one pokemon. 
+- Battle ends when any of these situations occur
+	- The wild pokemon faints
+	- Your all 6 pokemons faints
+	- You catch the wild pokemon
+- If the wild pokemon faints then you dont get to catch it. 
+
+### NPC Battle 
+This is a battle mode where you the user play against NPC bot for badges. 
+
+#### Rules 
+- You can have atmost 6 pokemons. 
+- Our opponent has predefined pokemons. 
+- Battle ends when any of these situations occur 
+	- All of your pokemon faints.
+	- All of the NPC's pokemons faints. 
+
+### PVP Battle
+This is a battle where you can play with other players over internet. 
+
+> This feature is planed for the future. 
+
+#### Rules 
+- You must have 6 pokemons. 
+- Your opponent has 6 pokemons. 
+- Battle ends when any of these situations occur
+	- All of your pokemon faints. 
+	- All of your opponents pokemon faints.
+
