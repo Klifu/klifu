@@ -1,4 +1,5 @@
 # Klifu Game Flow 
+![](https://img.shields.io/badge/Under-Development-yellow)
 
 > As of now klifu supports only **gen1**.
 
@@ -19,6 +20,7 @@ This document is the complete game flow of klifu. We will talk about all the rul
 	- [Catch Battle Mode](#catch-battle-mode)
 	- [NPC Battle Mode](#npc-battle-mode)
 	- [PVP Battle Mode](#pvp-battle-mode)
+- [Pokemon Stats](#pokemon-stats)
 
 ## Getting Started
 Just like any other pokemon game, you start klifu by choosing your starter pokemon. You get a choice between `Bulbasaur`, `Charmander`, `Squirtle`. Your starter pokemon is very crucial as you need it to catch new wild pokemons. 
@@ -87,3 +89,6 @@ This is a battle where you can play with other players over internet.
 	- All of your pokemon faints. 
 	- All of your opponents pokemon faints.
 
+---
+
+## Pokemon Stats
