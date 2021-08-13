@@ -19,5 +19,5 @@ Fixes #
 
 - [ ] I have read the Contributing guidlines and Code of Conduct.
 - [ ] My branch is up-to-date.
-- [ ] My changes are not breaking the code.
+- [ ] Changes made by me are not breaking the code.
 - [ ] I have added necessary documentation (if appropriate)
