@@ -15,6 +15,12 @@ Fixes #
 -
 -
 
+#### Related issue(s):
+<!--
+Except for klifu no other repos have issues so do refer to the issue you are working on. 
+For example `Resolved Klifu/klifu#12`, `Fixes Klifu/klifu#32` or `See also Klifu/klifu#21`. The `See also Klifu/klifu#21` option will not automatically close the issue after the PR merge.
+-->
+
 #### Checklist
 
 - [ ] I have read the Contributing guidlines and Code of Conduct.
